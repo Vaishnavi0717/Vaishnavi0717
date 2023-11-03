@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *vaishnavipuneka0@gmail.com*
   
-- 👩‍🎓 https://Vaishnavi0717.github.io
+- 👩‍🎓 Portfolio *https://Vaishnavi0717.github.io*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
