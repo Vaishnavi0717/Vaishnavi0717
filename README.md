@@ -12,7 +12,8 @@
 - 💬 Ask me about *HTML | CSS | JavaScript | React.js | Redux | TypeScript*
 
 - 📫 How to reach me *vaishnavipuneka0@gmail.com*
-- https://Vaishnavi0717.github.io
+  
+- 👩‍🎓 https://Vaishnavi0717.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
