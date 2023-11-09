@@ -1,4 +1,4 @@
-<img align="center" alt="baner" src="https://user-images.githubusercontent.com/112823546/217016507-da977155-0e3a-48ff-905c-e3eecfdf2b00.png">
+<img align="center" alt="baner" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Punekar</h1>
 <h3 align="center">A passionate web developer</h3>
